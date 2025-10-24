@@ -1,71 +1,72 @@
 <!-- 💫 Personal GitHub Profile README -->
 
-<h1 align="center">🌙 Hy , Its Abdul Dayan here </h1>
+<h1 align="center">🌙 Hey there, I'm Abdul Dayyan</h1>
 
 <p align="center">
-🎓 <b>Cyber Security Student</b> | 💻 <b>Aspiring Ethical Hacker</b> | ⚙ <b>IT & Programming Enthusiast</b>
+🎓 <b>BS Cyber Security Student</b> | 💻 <b>Future Ethical Hacker</b> | ⚙ <b>Tech & Programming Enthusiast</b>
 </p>
 
 ---
 
 ## 🧠 About Me  
 
-Right now i'm doing *Bachelor’s in Cyber Security* from * HITEC Pakistan 🇵🇰*.  
-With a strong background in *Computer Science, IT, and Programming, I’m passionate about understanding vulnerabilities, system behavior, and the principles of **digital defense*.  
+I'm currently pursuing my *Bachelor’s in Cyber Security* from *Pakistan 🇵🇰*.  
+I have a deep interest in *ethical hacking, digital forensics, and secure programming*.  
+My goal is to become a *skilled cybersecurity professional* who can identify vulnerabilities and create secure digital environments.
 
-I’m continuously developing my technical expertise in both *offensive and defensive cybersecurity, while strengthening my programming foundation to support **secure system design*.
+I’m passionate about exploring both *offensive and defensive cybersecurity* while learning the core principles of *system protection, cryptography, and network defense*.
 
 ---
 
 ## 🚀 Currently Learning  
 
-- 🔐 *Ethical Hacking & Network Security*  
-- 🌿 *Data Structures & Algorithms*  
-- 💻 *System Programming* in *C++, Java, and Python*  
-- 🐧 *Linux Administration* (Kali, Ubuntu) & *Digital Forensics*  
+- 🔐 *Ethical Hacking & Penetration Testing*  
+- 🌱 *Network Security & Cyber Defense Tools*  
+- 💻 *Programming* in *Python, Java, and C++*  
+- 🧩 *Operating Systems & Linux (Kali, Ubuntu)*  
+- 🕵‍♂ *Digital Forensics & Incident Response*
 
 ---
 
 ## 💼 Experience & Roles  
 
-- 👨‍💼 *Team Director* – led and organized multiple university-level events including business expos and sports Olympiads  
-- 🧑‍💻 *IT Lab Assistant* – provided technical support, managed systems, and assisted with network setup and troubleshooting  
-- 💡 *Developer* – working on projects that combine programming logic with cybersecurity applications  
-- 🎨 *Graphic Designer* – designed digital visuals, posters, and layouts for events and projects using *Canva*
+- 💡 *Cybersecurity Researcher* – working on small projects related to malware analysis and ethical hacking simulations  
+- 🧑‍💻 *Developer* – building beginner-level tools that integrate programming with security functions  
 
 ---
 
 ## ⚙ Tech Stack  
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,git,github,html,css,vscode,windows,linux,canva" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,git,github,vscode,linux,windows,canva" />
 </p>
 
 ---
 
 ## 🌟 Featured Project  
 
-### 🔗 [AICS DevTech](#)
-A fictional software development company created for an entrepreneurship project – focused on **innovation, **teamwork, and **professional software development* with *cybersecurity-oriented design and execution.**
+### 🔗 [CyberShield Hub](#)
+A personal learning project focused on **vulnerability testing, **network monitoring, and **ethical hacking practice* using tools like Kali Linux and Wireshark.*
 
 ---
 
 ## 📊 GitHub Analytics  
 
 <p align="center">
-<a href="https://github.com/AliAbbasQazi">
-<img src="https://github-readme-stats.vercel.app/api?username=AliAbbasQazi&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+<a href="https://github.com/AbdulDayyan">
+<img src="https://github-readme-stats.vercel.app/api?username=AbdulDayyan&show_icons=true&theme=tokyonight" alt="GitHub stats" />
 </a>
 </p>
 
 <p align="center">
-<a href="https://github.com/AliAbbasQazi">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AliAbbasQazi&theme=tokyonight" alt="GitHub streak" />
+<a href="https://github.com/AbdulDayyan">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulDayyan&theme=tokyonight" alt="GitHub streak" />
 </a>
 </p>
 
 ---
 
 <p align="center">
-💬 "Cybersecurity is not just about hacking systems, it's about securing the future."
+💬 "Learning to hack the right way — to defend, protect, and secure the digital world."
 </p>
+
