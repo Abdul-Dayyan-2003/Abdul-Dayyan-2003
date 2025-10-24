@@ -1,6 +1,6 @@
 <!-- 💫 Personal GitHub Profile README -->
 
-<h1 align="center">🌙 Hey there, I'm Ali Abbas Qazi</h1>
+<h1 align="center">🌙 Hey there, I'm  Abdul Dayan </h1>
 
 <p align="center">
 🎓 <b>BS Cyber Security Student</b> | 💻 <b>Aspiring Ethical Hacker</b> | ⚙ <b>IT & Programming Enthusiast</b>
