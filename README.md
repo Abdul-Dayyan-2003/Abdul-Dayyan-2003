@@ -1,16 +1,16 @@
 <!-- 💫 Personal GitHub Profile README -->
 
-<h1 align="center">🌙 Hey there, I'm  Abdul Dayan </h1>
+<h1 align="center">🌙 Hy , Its Abdul Dayan here </h1>
 
 <p align="center">
-🎓 <b>BS Cyber Security Student</b> | 💻 <b>Aspiring Ethical Hacker</b> | ⚙ <b>IT & Programming Enthusiast</b>
+🎓 <b>Cyber Security Student</b> | 💻 <b>Aspiring Ethical Hacker</b> | ⚙ <b>IT & Programming Enthusiast</b>
 </p>
 
 ---
 
 ## 🧠 About Me  
 
-I'm currently pursuing my *Bachelor’s in Cyber Security* from *Pakistan 🇵🇰*.  
+Right now i'm doing *Bachelor’s in Cyber Security* from * HITEC Pakistan 🇵🇰*.  
 With a strong background in *Computer Science, IT, and Programming, I’m passionate about understanding vulnerabilities, system behavior, and the principles of **digital defense*.  
 
 I’m continuously developing my technical expertise in both *offensive and defensive cybersecurity, while strengthening my programming foundation to support **secure system design*.
