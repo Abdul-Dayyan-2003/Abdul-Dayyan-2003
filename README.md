@@ -70,3 +70,30 @@ A personal learning project focused on **vulnerability testing, **network monito
 💬 "Learning to hack the right way — to defend, protect, and secure the digital world."
 </p>
 
+### 🧠 Most Used Languages
+| Language | Percentage |
+|-----------|-------------|
+| 🐍 *Python* | 34.79% |
+| 📓 *Jupyter Notebook* | 25.64% |
+| ☕ *Java* | 15.65% |
+| 🌐 *HTML* | 7.24% |
+| 🎨 *CSS* | 10.11% |
+| 💻 *C++* | 6.56% |
+
+---
+
+### 🌎 Connect With Me
+
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourlinkedin)
+
+---
+
+### 💬 Quote
+
+> The best defense is a curious mind and a questioning spirit.” 🛡
+
+
+---
+
